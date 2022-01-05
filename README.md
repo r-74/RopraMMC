@@ -1,5 +1,9 @@
-Im Ropra
+I'm Ropra
+
 Some random student learning how to code
+
 learning - SwiftUI, JS, Java
+
 Student
-England
+
+England - West Midlands
