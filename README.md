@@ -1,9 +1,9 @@
 I'm Ropra
 
-Some random student learning how to code
+Check out my website » https://www.ropra.tech
 
-learning - Python, C#, SwiftUI, JS, Java
+Learning » Python, Java, C#, SwiftUI, JS
 
-Student
+Occupation » Student
 
-England - West Midlands
+England » West Midlands
