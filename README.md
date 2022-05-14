@@ -1,8 +1,8 @@
-I'm Ropra
+> I'm Ropra
 
 Check out my website » https://www.ropra.tech
 
-Learning » Python, Java, C#, SwiftUI, JS
+Learning » Python, Java, C#, SwiftUI, JS, GDScript
 
 Occupation » Student
 
